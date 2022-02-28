@@ -5,7 +5,7 @@ What new design skills has your work on the project helped you to craft?
 What design process did you follow for your project work?
 How could tactics from your design approach be applied in future work?
 
-to approach designing software i try to make a check list and check off what i get done step by step. I tries to follow that method but this course was different. I had a real hard time here. Next time i will try to create more reuseable code to follow
+To approach designing software i try to make a check list and check off what i get done step by step. I tries to follow that method but this course was different. I had a real hard time here. Next time i will try to create more reuseable code. Als, id like to use better naming scemes, so i can easily identify different items im building.
 
 2. How do I approach developing programs?
 What new development strategies did you use while working on your 3D scene?
